@@ -1,4 +1,4 @@
-#include "/Users/admin/contracts/eosio.contracts/contracts/eosio.token/include/eosio.token/eosio.token.hpp"
+#include "eosio.token.hpp"
 
 namespace eosio {
 
